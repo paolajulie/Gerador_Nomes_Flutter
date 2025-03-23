@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601878247740",
+    "project_id": "gerador-nomes",
+    "storage_bucket": "gerador-nomes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601878247740:android:6d419c7a8b3f2ca4fe8639",
+        "android_client_info": {
+          "package_name": "com.geradorNomes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOmE7V0j-Mumv_SwpZTYl27s7DkZEihU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
